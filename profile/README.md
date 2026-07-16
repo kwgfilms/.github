@@ -22,4 +22,4 @@ We develop grounded, visually distinctive and emotionally resonant African stori
 
 ---
 
-[Portfolio de Kany J. Henry](https://kany4real.github.io/) · [Contact professionnel](mailto:kanyhenry@gmail.com)
+[Site officiel de KWG Films](https://kwgfilms.github.io/) · [Portfolio de Kany J. Henry](https://kany4real.github.io/) · [Contact professionnel](mailto:kanyhenry@gmail.com)
